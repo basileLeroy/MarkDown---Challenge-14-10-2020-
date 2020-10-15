@@ -3,7 +3,7 @@
 *"when it doesn't go your way, take a breather then start over again!"*
 
 
-![Image](C:\Users\basil\OneDrive\Bureau\BeCode\Projects\MarkDown - Challenge (14-10-2020)\WIN_20201014_10_05_25_Pro.jpg) "Title")
+![Image](assets/image.jpg "Leroy")
 
 ### "Me, in one sentence"
 
